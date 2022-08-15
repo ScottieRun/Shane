@@ -214,5 +214,3 @@ wait(40)
 timer.Visible = false
 newdupe.Visible = true
 olddupe.Visible = true
-
-https://raw.githubusercontent.com/ScottieRun/omg/main/Tradingpets
